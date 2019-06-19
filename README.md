@@ -10,4 +10,4 @@ In this example we are using the following Swift UI components:
   - Picker
   - Slider
   
-  ![gif-of-running-app](resources/Image-Manipulator-420.gif)
+  ![gif-of-running-app](resources/Image-Manipulator-420-smooth.gif)
